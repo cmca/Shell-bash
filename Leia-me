@@ -1,0 +1,11 @@
+Esse é um trabalho realizado para a disciplina de sistemas operacionais 2 da USP São Carlos.
+O shell segue as especificações do arquivo T1-4.pdf
+
+Para executa-lo, basta digitar no terminal:
+./shell
+
+
+
+
+Obs: Os demais arquivos com excessão ao shell, servem apenas para testar o terminal, o arquivo shell não possui qualquer
+tipo de dependência. Logo o único arquivo necessário para o funcionamento é o shell.c
